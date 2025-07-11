@@ -1,7 +1,3 @@
-## Hi there 👋
-
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats-mocha-tau.vercel.app?user=larbra&theme=radical&border_radius=10)](https://git.io/streak-stats)
