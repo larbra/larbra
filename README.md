@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-<!-- Snake cotribution -->
-<div align='center'>
-    <img width='100%' src='https://github.com/KaninGleb/KaninGleb/blob/output/github-snake-dark.svg' alt='Snake eat my contributions'/>
-</div>
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ## :fire: My Stats:
 [![GitHub Streak](https://github-readme-streak-stats-mocha-tau.vercel.app?user=larbra&theme=radical&border_radius=10)](https://git.io/streak-stats)
 
@@ -22,4 +18,9 @@
         <img src='http://skillicons.dev/icons?i=html,css,js,php,laravel,styledcomponents,sass' alt='Languages icons'/>
         <img src='http://skillicons.dev/icons?i=vscode,phpstorm,git,github,stackoverflow,figma,bootstrap,npm' alt='Software icons'/>
     </a>
+</div>
+
+<!-- Snake cotribution -->
+<div align='center'>
+    <img width='100%' src='https://github.com/KaninGleb/KaninGleb/blob/output/github-snake-dark.svg' alt='Snake eat my contributions'/>
 </div>
