@@ -15,7 +15,7 @@
 ## :mortar_board: Skills Showcase:
 <div align='center'>
     <a href='http://skillicons.dev'>
-        <img src='http://skillicons.dev/icons?i=html,css,js,php,laravel,styledcomponents,sass' alt='Languages icons'/>
+        <img src='http://skillicons.dev/icons?i=html,css,js,php,laravel,wordpress,styledcomponents,sass' alt='Languages icons'/>
         <img src='http://skillicons.dev/icons?i=vscode,phpstorm,git,github,stackoverflow,figma,bootstrap,npm' alt='Software icons'/>
     </a>
 </div>
