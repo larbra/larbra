@@ -9,7 +9,7 @@
 <div align='center'>
     <a href='http://skillicons.dev'>
         <img src='http://skillicons.dev/icons?i=html,css,js,php,laravel,wordpress,sass' alt='Languages icons'/>
-        <img src='http://skillicons.dev/icons?i=vscode,phpstorm,git,github,stackoverflow,figma,bootstrap,npm,react,redis,postgress' alt='Software icons'/>
+        <img src='http://skillicons.dev/icons?i=vscode,phpstorm,git,github,stackoverflow,figma,bootstrap,npm,react,redis,postgresql' alt='Software icons'/>
     </a>
 </div>
 
